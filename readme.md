@@ -1,5 +1,7 @@
 # Atividade final da Disciplina: Arquitetura do Supermercado do Futuro
 
+![](https://raw.githubusercontent.com/Secol/fiap-amd-final/main/images/01.png)
+
 ## Descrição da Atividade
 
 Nesta atividade, você aplicará os conhecimentos adquiridos na disciplina para projetar uma arquitetura para o "Supermercado do Futuro", considerando todos os serviços e integrações identificados na etapa de modelagem de eventos. Este projeto deve abordar como diferentes tecnologias e sistemas interagem para proporcionar uma experiência de compra eficiente para os clientes.
