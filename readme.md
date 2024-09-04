@@ -40,7 +40,7 @@ Você pode incluir outros detalhamentos se achar necessário.
 
 ## Envio da Atividade
 
-- Envie o documento em formato PDF e a composição dos arquitetos do time para o e-mail proffernando.secol@fiap.com.br.
+- Envie o documento em formato PDF e a composição dos arquitetos do time para o e-mail profleonardo.pinho@fiap.com.br.
 
 ## Critérios de Avaliação
 
